@@ -1,0 +1,86 @@
+body {
+    background-color:black;
+}h3{
+    font-size: 50px;
+    color:orangered;
+    font-family: 'Literata', cursive;
+    text-align: center;
+}
+.container {
+    background-image:url("../image/Orange.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+h1 {
+    color:orangered;
+    font-style: italic;
+    text-align: center;
+    font-size:70px;
+    font-family: 'Literata', serif;
+}
+p {
+    margin-left: 20px;
+    margin-right: 30px;
+    font-size:20px;
+    font-family: 'Literata', serif;
+}
+.card >table {
+    border: 2px solid black;
+}
+.card >table >th {
+    border: 2px solid black;
+}
+.link {
+    text-align: center;
+    font-size: 30px;
+}
+.link a:hover{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-size: 100px;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 90px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button {
+    text-align: center;
+}
+label{
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', ;
+}
+legend{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+input{
+    font-size: 20px;
+    margin-left: 10px;
+    font-family: 'serif', sans-serif;
+}
+#Result{
+    font-size:30px;
+    color: brown;
+    text-align: center;
+}
+#Results,#fName{
+    font-size: 40px;
+    color:black;
+    text-align: center;
+    font-family: 'serif',Verdana, Geneva, Tahoma, sans-serif;
+}
+img,h2{
+    margin-left: 2rm;
+}
+footer {
+    font-size: 15px;
+    text-align: center;}
