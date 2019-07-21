@@ -6,6 +6,9 @@ body {
     font-family: 'Literata', cursive;
     text-align: center;
 }
+table tr{
+    border:solid black 5px;
+}
 .container {
     background-image:url("../image/Orange.jpg");
     background-repeat: no-repeat;
